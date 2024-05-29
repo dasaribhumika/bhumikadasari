@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="profile-picture.jpg" alt="Profile Picture" width="150" style="border-radius:50%">
   <h1>Hello 👋, I'm Bhumika Dasari</h1>
   <p>I'm a full-stack developer and my passion lies in crafting captivating websites and immersive digital experiences.</p>
 </div>
@@ -9,8 +8,8 @@
 - 👩‍🎓 Currently a Graduate Student at [Syracuse Univsersity](https://www.syracuse.edu/)🍊
 - 💻 Interning at [Kollabio](https://www.kollabio.com/) as a Software Engineer
 - 🌱 I’m currently learning [Vue, LoopBack, and Nest.js]
-- 🖥 I do competitive Programming (Coding Profile)[https://linktr.ee/dasaribhumika]
-- ✍️ I love weaving my learning into words. (Blog)[https://dasaribhumika.blogspot.com/]
+- 🖥 I do competitive Programming [Coding Profile](https://linktr.ee/dasaribhumika)
+- ✍️ I love weaving my learning into words. [Blog](https://dasaribhumika.blogspot.com/)
 
 
 ## Show your support
