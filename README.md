@@ -36,6 +36,12 @@
  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+### 📈 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasaribhumika&show_icons=true&theme=radical" alt="Bhumika's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasaribhumika&theme=radical" alt="Bhumika's GitHub Streak" width="48%" />
+</div>
+
 ## ⭐Show your support
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/bhumika.dasari)
 <!-- This is a comment in Markdown -->
