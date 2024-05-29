@@ -14,6 +14,5 @@
 
 ## Show your support
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/bhumika.dasari)
-
 <!-- This is a comment in Markdown -->
 
