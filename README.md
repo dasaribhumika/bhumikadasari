@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Hello 👋, I'm Bhumika Dasari</h1>
+
   <p>I'm a full-stack developer and my passion lies in crafting captivating websites and immersive digital experiences.</p>
 </div>
+
 
 ### 🙋‍♀️About Me
 - 👩‍💻 Know more about me [My Portfolio](https://bhumika-dasari-portfolio.netlify.app/)
@@ -10,6 +12,7 @@
 - 🌱 I’m currently learning [Vue, LoopBack, and Nest.js]
 - 🖥 I do competitive Programming [Coding Profile](https://linktr.ee/dasaribhumika)
 - ✍️ I love weaving my learning into words. [Blog](https://dasaribhumika.blogspot.com/)
+
   
 ## 🛠️ Technologies and Tools I use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,16 +34,19 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-	![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
- ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### 📈 GitHub Stats:
+
+### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dasaribhumika&show_icons=true&theme=radical" alt="Bhumika's GitHub Stats" width="48%" />
+	<br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasaribhumika&theme=radical" alt="Bhumika's GitHub Streak" width="48%" />
 </div>
+
 
 ## ⭐Show your support
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/bhumika.dasari)
