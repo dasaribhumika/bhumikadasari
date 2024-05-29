@@ -1,6 +1,6 @@
+![cover image](https://github.com/dasaribhumika/dasaribhumika/blob/main/Img/cover%20image.png?raw=true)
 <div align="center">
   <h1>Hello 👋, I'm Bhumika Dasari</h1>
-	![cover image](https://github.com/dasaribhumika/dasaribhumika/blob/main/Img/cover%20image.png?raw=true)
   <p>I'm a full-stack developer and my passion lies in crafting captivating websites and immersive digital experiences.</p>
 </div>
 
