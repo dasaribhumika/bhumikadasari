@@ -1,6 +1,7 @@
-![cover image](https://github.com/dasaribhumika/dasaribhumika/blob/main/Img/cover%20image.png?raw=true)
+
 <div align="center">
   <h1>Hello 👋, I'm Bhumika Dasari</h1>
+	<img src="https://github.com/dasaribhumika/dasaribhumika/blob/main/Img/coding.gif?raw=true" alt="Coding GIF" width="400">
   <p>I'm a full-stack developer and my passion lies in crafting captivating websites and immersive digital experiences.</p>
 </div>
 
