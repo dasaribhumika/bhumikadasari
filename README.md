@@ -41,7 +41,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dasaribhumika&show_icons=true&theme=radical" alt="Bhumika's GitHub Stats" width="48%" />
 	<br/>
