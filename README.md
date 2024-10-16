@@ -50,7 +50,7 @@
 
   <p align="center">
     <!-- LeetCode heatmap and stats -->
-    <img align="center" src="https://leetcard.jacoblin.cool/Bhumika_22?theme=dark&font=Nunito&ext=heatmap" />
+    <img align="center" src="https://leetcard.jacoblin.cool/Bhumika_22?theme=dark&font=source_code_pro&ext=heatmap" />
   </p>
   
   <br/>
