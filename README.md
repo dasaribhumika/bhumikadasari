@@ -45,7 +45,7 @@
 <div align="center">   
   <p align="center">
     <!-- Add badge(s) here -->
-    <a href="https://leetcode.com/Bhumika_22/" target="_blank"><img align="center" src="https://example.com/50-day-badge.png" alt="50-day Badge" height="200" width="200" /></a>
+    <a href="https://leetcode.com/Bhumika_22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-day Badge" height="200" width="200" /></a>
   </p>
 
   <p align="center">
@@ -54,18 +54,6 @@
   </p>
   
   <br/>
-
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-  <br>
-
-  <div align="center">
-    <!-- GitHub streak stats -->
-    <img width=390 src="https://streak-stats.demolab.com/?user=Bhumika_22&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <!-- GitHub stats -->
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Bhumika_22&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <!-- Top languages -->
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika_22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-  </div>
 </div>
 
 
