@@ -40,6 +40,9 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+### Leetcode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/Bhumika_22?theme=dark&font=baloo&extension=activity)
+
 
 ### 📈 GitHub Stats 
 <div align="center">
