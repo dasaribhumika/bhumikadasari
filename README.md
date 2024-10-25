@@ -10,7 +10,7 @@
 - 👩‍💻 Know more about me [My Portfolio](https://bhumika-dasari-portfolio.netlify.app/)
 - 👩‍🎓 Currently a Graduate Student at [Syracuse Univsersity](https://www.syracuse.edu/)🍊
 - 🖥 I do competitive Programming [Coding Profile](https://linktr.ee/dasaribhumika)
-- ✍️ I love weaving my learning into words. [Blog](https://dasaribhumika.blogspot.com/)
+- ✍️ I love weaving my learning into words. [Blog](https://medium.com/@bhumikadasari0)
 
   
 ## 🛠️ Technologies and Tools I use
